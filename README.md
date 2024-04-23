@@ -25,6 +25,7 @@ After training various models, the best performing model was a Bidirectional LST
 - **Precision**: 0.864
 - **Recall**: 0.625
 - **Accuracy**: 0.467
+  
 These results indicate that the Bidirectional LSTM model is capable of effectively detecting toxicity in comments, with good precision and recall.
 
 ## Conclusion
