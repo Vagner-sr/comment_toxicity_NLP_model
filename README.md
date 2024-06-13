@@ -18,7 +18,7 @@ After training various models, the best performing model was a Bidirectional LST
 - Bidirectional LSTM Layer: 32 units with tanh activation.
 - Fully Connected Layers: 128, 256, and 128 units with ReLU activation.
 - Output Layer: Dense layer with sigmoid activation for multi-label classification.
-- 
+  
 ### Model Results:
 - **Validation Loss**: 0.0496
 - **Precision**: 0.864
@@ -33,4 +33,5 @@ These results indicate that the Bidirectional LSTM model is capable of effective
 This project provides insights into the detection of toxic content in text comments and offers a precise model for multi-label classification. The results can be useful for platforms and communities to automatically moderate comments and maintain a safe environment for users.
 
 ### Usage
-To use this model for toxicity detection, you can interact with the provided Gradio interface. Simply input a comment into the textbox and the model will predict whether it contains toxic content.
+To use this model for toxicity detection, you can interact with the provided Gradio interface. Simply input a comment into the textbox and the model will predict whether it contains toxic content.![image](https://github.com/Vagner-sr/comment_toxicity_NLP_model/assets/144150977/46c55ec3-66e0-4d0f-b1f2-de1143e86713)
+
