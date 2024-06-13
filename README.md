@@ -20,7 +20,6 @@ After training various models, the best performing model was a Bidirectional LST
 - Output Layer: Dense layer with sigmoid activation for multi-label classification.
 - 
 ### Model Results:
-- **Mean Absolute Error (MAE)**: 0.0617
 - **Validation Loss**: 0.0496
 - **Precision**: 0.864
 - **Recall**: 0.625
